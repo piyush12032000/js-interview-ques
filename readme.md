@@ -191,9 +191,6 @@ console.log(calculate(add,10,5))
 ### 2- Not Defined-The value of "not defined" is similar to "undefined", in that it indicates that a variable does not exist. 
 ​
 ### 3-Null- null is an assignment value. It can be assigned to a variable as a representation of no value:
-​
-Collapse
-
 
 
 
